@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "{{ cookiecutter-project-slug }}"
+name = '{{ cookiecutter.project_slug }}'
 version = "0.1.0"
 description = "Cookie Cutter Python Project"
 # TODO Add information
