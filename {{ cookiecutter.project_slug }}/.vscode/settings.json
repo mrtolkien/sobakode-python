@@ -1,0 +1,14 @@
+{
+  // This runs ruff and organizes imports
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": true,
+      "source.organizeImports.ruff": true
+    }
+  },
+  "editor.formatOnSave": true,
+  // Python defaults
+  "python.formatting.provider": "black",
+  "python.testing.pytestArgs": ["tests"],
+  "python.testing.pytestEnabled": true
+}
