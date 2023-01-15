@@ -2,4 +2,4 @@
 
 Python cookie cutter template
 
-<!-- TODO MkDocs, Readme, using template values -->
+<!-- TODO MkDocs, README, pre-commit -->
