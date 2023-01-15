@@ -2,4 +2,4 @@
 
 Python cookie cutter template
 
-<!-- TODO MkDocs, README, pre-commit -->
+<!-- TODO pre-commit, ruff action -->

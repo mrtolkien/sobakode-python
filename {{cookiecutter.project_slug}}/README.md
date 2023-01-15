@@ -8,3 +8,11 @@
 [pre-commit project]: https://pre-commit.com/
 
 {{ cookiecutter.project_short_description }}
+
+## Documentation
+
+Build and serve it with
+
+```shell
+mkdocs serve
+```
