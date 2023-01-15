@@ -1,11 +1,9 @@
 [tool.poetry]
 name = '{{ cookiecutter.project_slug }}'
 version = "0.1.0"
-description = "Cookie Cutter Python Project"
-# TODO Add information
-authors = ["John Doe <john.doe@gmail.com>"]
+description = "{{ cookiecutter.project_short_description }}"
+authors = ["' {{ cookiecutter.full_name }} ' <' {{ cookiecutter.email }} '>"]
 readme = "README.md"
-packages = [{ include = "{{ cookiecutter" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"
