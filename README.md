@@ -31,4 +31,5 @@ This template is optimized for use with [VS Code](https://github.com/python/mypy
 ## TODO
 
 - Configuration files for Ruff, MyPy, and Black
+- Add Markdown linter
 - Add template configuration options (python version, enabling MyPy in pre-commit and CI/CD, ...)
