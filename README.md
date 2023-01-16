@@ -27,3 +27,8 @@ This template is optimized for use with [VS Code](https://github.com/python/mypy
 
 - [Git](https://git-scm.com/)
 - [Poetry](https://python-poetry.org/)
+
+## TODO
+
+- Configuration files for Ruff, MyPy, and Black
+- Add template configuration options (python version, enabling MyPy in pre-commit and CI/CD, ...)
