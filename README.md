@@ -13,6 +13,8 @@ Python cookie cutter template
 
 Don't write spahetti code, write [sobakode](https://blog.tolki.dev/sobakode/). It tastes better.
 
+This template is optimized for use with [VS Code](https://github.com/python/mypy) and provides an `extensions.json` and `settings.json` for the workspace.
+
 ## Tooling
 
 - [Ruff](https://github.com/charliermarsh/ruff): Insanely fast Python linter
