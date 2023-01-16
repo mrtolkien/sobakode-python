@@ -10,5 +10,7 @@
   // Python defaults
   "python.formatting.provider": "black",
   "python.testing.pytestArgs": ["tests"],
-  "python.testing.pytestEnabled": true
+  "python.testing.pytestEnabled": true,
+  // Enabling mypy for linting
+  "python.linting.mypyEnabled": true
 }

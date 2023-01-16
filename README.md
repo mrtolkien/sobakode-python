@@ -9,6 +9,10 @@
 
 Python cookie cutter template
 
+## Philosophy
+
+Don't write spahetti code, write [sobakode](https://blog.tolki.dev/sobakode/). It tastes better.
+
 ## Tooling
 
 - [Ruff](https://pre-commit.com/): Insanely fast Python linter
