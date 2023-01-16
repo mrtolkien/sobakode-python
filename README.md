@@ -15,7 +15,13 @@ Don't write spahetti code, write [sobakode](https://blog.tolki.dev/sobakode/). I
 
 ## Tooling
 
-- [Ruff](https://pre-commit.com/): Insanely fast Python linter
-- [Black](https://pre-commit.com/): Python code formatter
+- [Ruff](https://github.com/charliermarsh/ruff): Insanely fast Python linter
+- [MyPy](https://github.com/python/mypy): Static typing for python
+- [Black](https://github.com/psf/black): Python code formatter
 - [Pre-commit](https://pre-commit.com/): Ensures that committed code passes `ruff` and `black`
-- [MkDocs Material](https://pre-commit.com/): Superb documentation made simple
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/): Superb documentation made simple
+
+## Pre-requisites
+
+- [Git](https://git-scm.com/)
+- [Poetry](https://python-poetry.org/)
